@@ -1,0 +1,70 @@
+body{
+				padding: 0vmax;
+				background-color:#d3d3d3 ;
+}
+header h1.header{
+padding:0px;
+margin:0px;
+				position:absolute ;
+				top: 6vmax;
+				color: aqua;
+				left: 3vmax;
+				text-shadow: 0.3vmax 0.2vmax 0.1vmax red;
+				font-size: 5vmax;
+				font-weight: 900;
+}
+header h1.header1{
+				padding:0px;
+margin:0px;
+				position:absolute ;
+				top: 10.5vmax;
+				color: aqua;
+				left: 15vmax;
+				text-shadow: 0.3vmax 0.2vmax 0.01vmax red;
+				font-size: 4.2vmax;
+				font-weight: 900;
+}
+body header img.img1{
+				width: 100%;
+				height:15vmax;
+				border-bottom: 1.5vmax solid #ffc700;
+				border-bottom-right-radius: 4vmax;
+}
+body header img.logo{
+				width:100%;
+				position: absolute;
+				top: 600px;
+}
+div.solegon{
+    padding-bottom: 2vmax ;
+				text-align: center;
+				text-decoration: underline;
+				text-decoration-color: #ce55ff;
+				text-decoration-style: dashed;				
+			 color: red;
+			 text-shadow: 0.2vmax 0.01vmax 0.1vmax black;
+			 font-size: 2.70vmax;
+			 font-weight: 800;
+}
+nav{
+text-align: center;
+				font-size:3vmax;				
+				
+}
+a{
+				padding: 1.5vmin;
+				text-decoration: none;
+				color: #ffffff;
+				background-color: #3746a4;
+}
+a:hover{
+				background-color: #ffb200;
+}
+#current{
+				background-color: #ffb200;
+				border: 4px solid red;
+				box-shadow: 0.4vmax 0.4vmax 0.6vmax black;
+}
+video{
+				padding-top: 2.5vmax;
+}
